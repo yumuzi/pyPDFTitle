@@ -1,0 +1,10 @@
+##1:
+00001.pdf
+##2:
+Modeling and optimization of activated sludge bulking for a real wastewater treatment plant using hybrid artificial neural networks-genetic algorithm approach
+
+##1:
+00002.pdf
+##2:
+Modeling of a solid oxide fuel cell power plant using an ensemble of neural networks based on a combination of the adaptive particle swarm optimization and Levenberg-Marquardt algorithms
+
